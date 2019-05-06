@@ -1,0 +1,10 @@
+.\build\sfud_sfdp.o: rt-thread\components\drivers\spi\sfud\src\sfud_sfdp.c
+.\build\sfud_sfdp.o: rt-thread\components\drivers\spi\sfud\src\../inc/sfud.h
+.\build\sfud_sfdp.o: rt-thread\components\drivers\spi\sfud\src\../inc/sfud_def.h
+.\build\sfud_sfdp.o: D:\software\mdk\ARM\ARMCC\Bin\..\include\stdio.h
+.\build\sfud_sfdp.o: D:\software\mdk\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\sfud_sfdp.o: D:\software\mdk\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\sfud_sfdp.o: D:\software\mdk\ARM\ARMCC\Bin\..\include\stdbool.h
+.\build\sfud_sfdp.o: rt-thread\components\drivers\spi\sfud\inc\sfud_cfg.h
+.\build\sfud_sfdp.o: .\rtconfig.h
+.\build\sfud_sfdp.o: rt-thread\components\drivers\spi\sfud\src\../inc/sfud_flash_def.h
